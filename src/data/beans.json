@@ -1,0 +1,24 @@
+{
+  "totalCount": 2,
+  "pageSize": 2,
+  "currentPage": 1,
+  "totalPages": 1,
+  "items": [
+    {
+      "beanId": 1,
+      "flavorName": "Bro это щит толкинг",
+      "dopInfo": "Выключатель",
+      "info": "Я про черный KлEвEр ты не понял Нига",
+      "description": "Solo не вывезешь дорого",
+      "imageUrl": "./src/image/1.jpg"
+    },
+    {
+      "beanId": 2,
+      "flavorName": "Mамочка прости What все мы D*билы",
+      "dopInfo": "Скриптонит",
+      "info": "КрасавNцы не знают What такое сOвесть",
+      "description": "Time нехило лEчит, но U сильнее, руки синеют but я знаю ты согреешь",
+      "imageUrl": "./src/image/2.jpg"
+    }
+  ]
+}
