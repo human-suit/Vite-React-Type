@@ -1,7 +1,5 @@
 # React + TypeScript + Vite
 
-![Скриншот 01-11-2024 023649](https://github.com/user-attachments/assets/745488c7-095a-40fd-9ae3-47e61a001499)
-
 ![Скриншот 01-11-2024 044000](https://github.com/user-attachments/assets/94c54917-3587-45d3-8b5f-04c78258fade)
 
 ![Скриншот 01-11-2024 044018](https://github.com/user-attachments/assets/11840e45-1ff1-498b-8542-71139458c3ac)
